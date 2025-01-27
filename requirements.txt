@@ -1,5 +1,6 @@
 opencv-python-headless==4.5.5.64
-numpy
+numpy==1.21.0
 deepface
 Pillow
+
 
